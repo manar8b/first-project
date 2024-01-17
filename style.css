@@ -1,0 +1,42 @@
+img{
+    display: block;
+    width: 100%;
+}
+   
+
+body{margin: 0;}
+
+.styled-container{
+    padding:200px 10px ;
+    background-size:cover;
+    background-repeat: no-repeat;
+    background-color: lightblue;
+    text-align: center;  
+}
+
+.container{
+   
+    background-image:url("./imgs/img1.jpg");
+    
+}
+
+.container2{
+    background-image:url("./imgs/img2.jpg");
+
+}
+
+
+
+.container3{
+    background-image:url("./imgs/img3.avif");
+}
+
+p{
+    /* font-size: 20px; */
+    background-color: white;
+    margin-top: 80px;
+}
+
+h1{
+    color: white;
+}
